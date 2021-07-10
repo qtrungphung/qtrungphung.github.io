@@ -1,3 +1,9 @@
+---
+layout: post
+title: On Stereotype and Learning
+date: 2021-07-10 13:45:12 -0700
+---
+
 - > **Melanie**: Well, maybe it's going to learn that some statistical patterns in the data that might have to do with the fact that people who live in certain zip codes are likely to have more recidivism than people who live in other zip codes. Sure, it's true, but it's not the cause. Living in that zip code is not necessarily the cause of that. The system has no [[Causal Model]] of the world and how the world works. The system just Learning patterns from data. And so it's inevitable that you're going to get biases. We humans are wired to have biases.
 
 We saw that the other night when Rajiv Sethi gave a talk about our [[Stereotype]]s and how and why we have stereotypes, and how they can be beneficial, and also very unbeneficial. But we don't just learn patterns from [[Statistics]], we have kind of these causal models of the world. So we're likely to know that living in a certain zip code, that those particular five numbers are not the reason why you did well on the SAT or why you went to prison. You kind of have this world model of causality. And we also have, as we talked about, [[Metacognition]].
