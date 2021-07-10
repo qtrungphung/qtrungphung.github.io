@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "On Stereotype and Learning"
 date:   2021-07-10 13:45:12 +0700
 categories: generalization learning AI ML

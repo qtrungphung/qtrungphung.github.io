@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Can you be smart on your own"
 date:   2021-07-08 13:04:00 +0000
 categories: Intelligence Complexity
